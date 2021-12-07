@@ -1,0 +1,18 @@
+form{
+    background: yellow;
+    width: 20%;
+}
+table{
+    width: 100%;
+}
+.a{
+    color: blue;
+}
+.b{
+    color: #fff;
+    background: #000;
+}
+.c{
+    color: blue;
+    float: left;
+}
